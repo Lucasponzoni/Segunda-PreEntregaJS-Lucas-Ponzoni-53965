@@ -1,6 +1,6 @@
 # Calculadora de Indemnización por Despido ⚠️
 
-![Bandera Argentina](./img/argentina_globe.png)
+<img src="./img/argentina_globe.png" alt="Bandera Argentina" style="width: 100px; height: auto;">
 
 Este proyecto consiste en una calculadora de indemnización por despido en Argentina para uno o más empleados, implementado en JavaScript y HTML.
 
